@@ -1,5 +1,5 @@
 ## Experience
-### Freelancing Eccentric India Source Code
+### Freelancing Eccentric India
 *Jul 2023 - Sep 2023*
 - Engineered a MERN web app, elevating online presence and boosting customer engagement with a 40% increase in product views.
 - Managed Ecentric India's backend, integrated shipping, and Stripe, yielding a 30% increase in successful transactions for the web app.
@@ -20,7 +20,7 @@
 
 - **Intermediate School**
   - Percentage: 86
-  - Seth AnandRam Jaipuria School, Kanpur, UP, IN
+  - Seth Anandram Jaipuria School, Kanpur, UP, IN
   - Apr 2018 - Apr 2019
 
  ## Skills
